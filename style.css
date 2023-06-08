@@ -1,0 +1,57 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: burlywood;
+    
+    display: flex;
+    justify-content: center;
+    width: 100%;
+   
+
+}
+
+#pricing {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.sol {
+    position: left;
+    left: 160px;
+
+}
+
+.number {
+    font-size: 45px;
+    color: crimson;
+
+}
+
+.precio {
+    position: relative;
+}
+
+.card {
+    background-color: aliceblue;
+    width: 100%;
+    margin: 40px;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 1px 10px rgba((red), green, blue, alpha);
+    text-align: center;
+    height: 375px;
+}
+
+.container {
+    width: 100%;
+    
+    
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    margin-top: 100px;
+    font-weight: 100;
+}
